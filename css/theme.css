@@ -1,0 +1,66 @@
+:root {
+  /* GospelWed Brand Color Palette */
+  /* Primary Brand Colors */
+  --color-primary: #5e182c;           /* Dark Burgundy */
+  --color-primary-light: #8a3d52;      /* Lighter burgundy */
+  --color-primary-dark: #3d0f1c;       /* Darker burgundy */
+
+  /* Secondary & Accent Colors */
+  --color-secondary: #e2565b;         /* Coral Red */
+  --color-secondary-light: #f08185;    /* Lighter coral */
+  --color-accent-warm: #faab76;        /* Peach */
+  --color-accent-soft: #fedd83;        /* Warm Yellow */
+  --color-accent-gold: #D4AF37;        /* Gold */
+
+  /* Surface & Background Colors */
+  --color-background: #FFF8F3;        /* Cream */
+  --color-background-gradient-start: #FFF8F3;
+  --color-background-gradient-end: #FFEBE0;
+  --color-surface: #FFFBF7;           /* Warm White */
+  --color-surface-variant: #FFF0E8;    /* Slightly darker surface */
+
+  /* Text Colors */
+  --color-on-primary: #ffffff;
+  --color-on-secondary: #ffffff;
+  --color-on-surface: #2D1F1A;         /* Dark Brown */
+  --color-on-surface-variant: #6B5750;  /* Warm Gray */
+  --color-text-muted: #8B7B73;
+  --color-text-hint: #A69B95;
+
+  /* Status Colors */
+  --color-success: #4CAF50;
+  --color-warning: #FF9800;
+  --color-error: #D32F2F;
+  --color-info: #2196F3;
+
+  /* UI Element Colors */
+  --color-border: #E8DDD8;
+  --color-border-light: #F5EDE8;
+  --color-divider: #EDE5E0;
+  --color-overlay: rgba(45, 31, 26, 0.5);
+
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 12px;
+  --spacing-lg: 16px;
+  --spacing-xl: 24px;
+  --spacing-xxl: 32px;
+  --spacing-xxxl: 48px;
+
+  /* Border Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(45, 31, 26, 0.08);
+  --shadow-md: 0 2px 4px rgba(45, 31, 26, 0.12);
+  --shadow-lg: 0 4px 8px rgba(45, 31, 26, 0.15);
+  --shadow-xl: 0 6px 12px rgba(45, 31, 26, 0.2);
+
+  /* Typography */
+  --font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
